@@ -681,5 +681,5 @@ mintegral.com, 39385, DIRECT, 0aeed750c80d6423
 video.unrulymedia.com,  1876793108340587286, RESELLER
 omnifytv.com, 05096ffe925c11eda1eb0242ac120002, RESELLER 
 
-pangleglobal.com, Account ID, DIRECT
+pangleglobal.com, 5017843, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace

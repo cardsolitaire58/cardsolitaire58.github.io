@@ -35,37 +35,21 @@ xandr.com, 14082, RESELLER
 zmaticoo.com, 5135655, RESELLER
 
 adform.com, 716, RESELLER
-
 admanmedia.com, 2153, RESELLER
-
 admanmedia.com, 990, RESELLER
-
 algorix.co, 54616, RESELLER, 5b394c12fea27a1d
-
 appads.in, 106246, RESELLER
-
 appnexus.com, 12878, RESELLER, f5ab79cb980f11d1
-
 appnexus.com, 15629, RESELLER
-
 appnexus.com, 9382, RESELLER, f5ab79cb980f11d1
-
 blueseasx.com, 232670, RESELLER, 7998eac5087f6110
-
 connekt.ai, 1732945743, RESELLER
-
 contextweb.com, 562791, RESELLER, 89ff185a4c4e857c
-
 contextweb.com, 563217, RESELLER, 89ff185a4c4e857c
-
 contextweb.com, 563265, RESELLER, 89ff185a4c4e857c
-
 conversantmedia.com, 100358, RESELLER, 03113cd04947736d
-
 conversantmedia.com, 100396, RESELLER, 03113cd04947736d
-
 eliteappgrade.com, 494223, RESELLER
-
 eskimi.com, 2020000663, RESELLER
 
 freewheel.tv, 741650, RESELLER
@@ -79,61 +63,33 @@ improvedigital.com, 1114, RESELLER
 improvedigital.com, 2276, RESELLER
 
 inmobi.com, edd282ac8f29464792bf2b7f3df2f9df, RESELLER, 83e75a7ae333ca9d
-
 kidoz.net, 14260, RESELLER, a109366414b7335e
-
 krushmedia.com, ajxf6R585a9m6Catvk, RESELLER
-
 lacunads.com, lcb555b3bc8667a09a, RESELLER
-
 lijit.com, 465542, RESELLER, fafdf38b16bf6b2b
-
 lijit.com, 481366, RESELLER, fafdf38b16bf6b2b
-
 lijit.com, 483304, RESELLER, fafdf38b16bf6b2b
-
 lijit.com, 489963, RESELLER, fafdf38b16bf6b2b
-
 lijit.com, 491737, RESELLER, fafdf38b16bf6b2b
-
 lijit.com, 503707, RESELLER, fafdf38b16bf6b2b
-
 loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
-
 loopme.com, 11635, RESELLER, 6c8d5f95897a5a3b
-
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
-
 lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
-
 mars.media, 1010442, RESELLER, 8624339f102fb076
-
 Media.net, 8CU12AQ1Y, RESELLER
-
 onetag.com, 8668c16092f01e8, RESELLER
-
 onlinemediasolutions.com, 23120, RESELLER
-
 openx.com, 540393169, RESELLER, 6a698e2ec38604c6
-
 openx.com, 540679900, RESELLER, 6a698e2ec38604c6
-
 openx.com, 540857594, RESELLER, 6a698e2ec38604c6
-
 openx.com, 540861995, RESELLER, 6a698e2ec38604c6
-
 orangeclickmedia.com, c-1181, RESELLER
-
 outbrain.com, 0023749a2264ea0429a71b54ac9ca0de9a, RESELLER
-
 outbrain.com, 00ab8f68679cc060c8bbc1035e70030614, RESELLER
-
 playdigo.com, 1965, RESELLER, 92011346d63d3c30
-
 playwire.com, 1018531, RESELLER
-
 playwire.com, 1025119, RESELLER
-
 pokkt.com, 6246, RESELLER, c45702d9311e25fd
 pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
